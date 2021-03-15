@@ -1,3 +1,3 @@
 # Playlist
 
-Project Pratikum Pemrograman Komputer
+Project Latihan Pratikum Pemrograman Komputer
